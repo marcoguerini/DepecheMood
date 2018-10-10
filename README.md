@@ -1,29 +1,30 @@
-DepecheMood
-===========
 
-This repository contains the resource DepecheMood, a high-quality emotion lexicon that has been automatically annotated.
+This repository contains the various versions of the resource DepecheMood, a high-quality and high-coverage emotion lexicon that has
+been automatically derived from crowd annotated news.
 
 # DepecheMood++
 
-This newer version of the lexicon targets **two** languages (English and Italian), as well as **three** types of word representations (unigram, lemma and lemma#PoS).
+This is the newest version of the lexicon. It contains **two** languages (English and Italian), as well as **three** types of word representations (token, lemma and lemma#PoS).
 
-The relative preprint is:
+Preprint is available at https://arxiv.org/abs/1810.03660
 
-Oscar Araque, Lorenzo Gatti, Jacopo Staiano, Marco Guerini
+If you use DepecheMood++, please cite the following publication:
 
-DepecheMood++: a Bilingual Emotion Lexicon Built Through Simple Yet Powerful Techniques
-
-https://arxiv.org/abs/1810.03660
+Araque, O., Gatti, L., Staiano, J., and Guerini, M. (2018) "DepecheMood++: a Bilingual Emotion Lexicon Built Through Simple Yet
+Powerful Techniques". ArXiv preprint.
 
 
 # DepecheMood
 
-A high-precision lexicon of roughly 37 thousand terms annotated with emotion scores. 
-It can be downloaded from the release section.
+The original DepecheMood lexicon released in 2014, English only. 
 
+If you use this version, please cite the following publication:
+
+Staiano, J., & Guerini, M. (2014). "DepecheMood: a Lexicon for Emotion Analysis from Crowd-Annotated News". Proceedings of ACL-2014. 
+
+# Demo
 If you want to play with it, we also have an online DEMO to analyze the emotions evoked by a text: www.depechemood.eu
 
 If you use DepecheMood, please cite the following publication:
 
-Staiano, J., & Guerini, M. (2014). "DepecheMood: a Lexicon for Emotion Analysis from Crowd-Annotated News". Proceedings of ACL-2014. 
 
