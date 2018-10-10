@@ -1,4 +1,4 @@
-This package contains the three versions of the Lexicon 'DepecheMood' as described in the paper: 
+This package contains the three versions of the Lexicon 'DepecheMood' (2014 version) as described in the paper: 
 
 Staiano, J., & Guerini, M. (2014). "DepecheMood: a Lexicon for Emotion Analysis from Crowd-Annotated News". Proceedings of ACL-2014. 
 
