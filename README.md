@@ -5,7 +5,14 @@ This repository contains the resource DepecheMood, a high-quality emotion lexico
 
 # DepecheMood++
 
-This newer version of the lexicon contains **two** languages (English and Italian), as well as **three** types of word representations (unigram, lemma and lemma#PoS).
+This newer version of the lexicon targets **two** languages (English and Italian), as well as **three** types of word representations (unigram, lemma and lemma#PoS).
+
+The relative preprint is:
+
+DepecheMood++: a Bilingual Emotion Lexicon Built Through Simple Yet Powerful Techniques
+Oscar Araque, Lorenzo Gatti, Jacopo Staiano, Marco Guerini
+
+https://arxiv.org/abs/1810.03660
 
 
 # DepecheMood
