@@ -6,9 +6,11 @@ been automatically derived from crowd annotated news.
 
 This is the newest version of the lexicon. It contains **two** languages (English and Italian), as well as **three** types of word representations (token, lemma and lemma#PoS).
 
+Preprint is available at https://arxiv.org/abs/1810.03660
+
 If you use DepecheMood++, please cite the following publication:
 
-Araque, O., Gatti, L., Staiano, J., & Guerini, M. (2018) "DepecheMood++: a Bilingual Emotion Lexicon Built Through Simple Yet
+Araque, O., Gatti, L., Staiano, J., and Guerini, M. (2018) "DepecheMood++: a Bilingual Emotion Lexicon Built Through Simple Yet
 Powerful Techniques". ArXiv preprint.
 
 
