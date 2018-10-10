@@ -9,8 +9,9 @@ This newer version of the lexicon targets **two** languages (English and Italian
 
 The relative preprint is:
 
-DepecheMood++: a Bilingual Emotion Lexicon Built Through Simple Yet Powerful Techniques
 Oscar Araque, Lorenzo Gatti, Jacopo Staiano, Marco Guerini
+
+DepecheMood++: a Bilingual Emotion Lexicon Built Through Simple Yet Powerful Techniques
 
 https://arxiv.org/abs/1810.03660
 
