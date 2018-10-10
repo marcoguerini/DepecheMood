@@ -4,27 +4,19 @@ been automatically derived from crowd annotated news.
 
 # DepecheMood++
 
-This is the newest version of the lexicon. It contains **two** languages (English and Italian), as well as **three** types of word representations (token, lemma and lemma#PoS).
-
-Preprint is available at https://arxiv.org/abs/1810.03660
-
-If you use DepecheMood++, please cite the following publication:
+This is the newest version of the lexicon. It contains **two** languages (English and Italian), as well as **three** types of word representations (token, lemma and lemma#PoS). If you use DepecheMood++, please cite the following publication:
 
 Araque, O., Gatti, L., Staiano, J., and Guerini, M. (2018) "DepecheMood++: a Bilingual Emotion Lexicon Built Through Simple Yet
-Powerful Techniques". ArXiv preprint.
+Powerful Techniques". ArXiv preprint is available at https://arxiv.org/abs/1810.03660
 
 
 # DepecheMood
 
-The original DepecheMood lexicon released in 2014, English only. 
+The original DepecheMood lexicon released in 2014, English only. If you use this version, please cite the following publication:
 
-If you use this version, please cite the following publication:
-
-Staiano, J., & Guerini, M. (2014). "DepecheMood: a Lexicon for Emotion Analysis from Crowd-Annotated News". Proceedings of ACL-2014. 
+Staiano, J., & Guerini, M. (2014). "DepecheMood: a Lexicon for Emotion Analysis from Crowd-Annotated News". Proceedings of ACL-2014. Paper available at http://www.anthology.aclweb.org/P/P14/P14-2070.pdf
 
 # Demo
+
 If you want to play with it, we also have an online DEMO to analyze the emotions evoked by a text: www.depechemood.eu
-
-If you use DepecheMood, please cite the following publication:
-
-
+Currently, this demo uses the 2014. We will update it soon.
