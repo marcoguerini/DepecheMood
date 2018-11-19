@@ -11,6 +11,15 @@ This is the newest version of the lexicon. It contains **two** languages (Englis
 Araque, O., Gatti, L., Staiano, J., and Guerini, M. (2018) "DepecheMood++: a Bilingual Emotion Lexicon Built Through Simple Yet
 Powerful Techniques". ArXiv preprint is available at https://arxiv.org/abs/1810.03660
 
+Bibtex:
+```
+@article{araque2018depechemood++,
+  title={DepecheMood++: a Bilingual Emotion Lexicon Built Through Simple Yet Powerful Techniques},
+  author={Araque, Oscar and Gatti, Lorenzo and Staiano, Jacopo and Guerini, Marco},
+  journal={arXiv preprint arXiv:1810.03660},
+  year={2018}
+}
+```
 
 # DepecheMood
 
