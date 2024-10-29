@@ -39,11 +39,6 @@ Bibtex:
 }
 ```
 
-# Demo
-
-If you want to play with it, we also have an online DEMO to analyze the emotions evoked by a text: www.depechemood.eu
-Currently, this demo uses the 2014. We will update it soon.
-
 # License
 
 This resource can be used for research purposes.
